@@ -1,6 +1,28 @@
 
 <script src="{{ asset('admin/js/jquery.min.js') }}"></script>
-<script src="{{asset('admin/js/data-Tables.min.js')}}"></script>
+<!-- <script src="{{asset('admin/js/data-Tables.min.js')}}"></script> -->
+
+
+    <!-- ==datatable button========== -->
+    <script src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/pdfmake.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/vfs_fonts.js"></script>
+    <!-- <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.js"></script> -->
+    <script src="https://cdn.datatables.net/v/bs4/dt-1.13.6/datatables.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
+    <script src="https://cdn.datatables.net/autofill/2.6.0/js/dataTables.autoFill.js"></script>
+    <script src="https://cdn.datatables.net/autofill/2.6.0/js/autoFill.jqueryui.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.4.2/js/dataTables.buttons.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.4.2/js/buttons.jqueryui.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.4.2/js/buttons.colVis.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.4.2/js/buttons.html5.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.4.2/js/buttons.print.js"></script>
+
+    
+    
+    
+
     <script src="{{ asset('admin/js/popper.min.js') }}"></script>
     
     <script src="{{asset('admin/js/bootstrap.min.js') }}"></script>

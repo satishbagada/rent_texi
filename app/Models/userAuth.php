@@ -15,6 +15,7 @@ class userAuth extends Authenticatable
         'user_id',
         'user_email',
         'user_name',
+        'user_mobile',
         'password',
         'user_status',
         'user_role',
