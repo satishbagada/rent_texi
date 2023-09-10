@@ -1,9 +1,9 @@
 
 <script src="{{ asset('admin/js/jquery.min.js') }}"></script>
-
+<script src="{{asset('admin/js/data-Tables.min.js')}}"></script>
     <script src="{{ asset('admin/js/popper.min.js') }}"></script>
     
-    <script src="{{ asset('admin/js/bootstrap.min.js') }}"></script>
+    <script src="{{asset('admin/js/bootstrap.min.js') }}"></script>
     <!-- Appear JavaScript -->
     
     <script src="{{ asset('admin/js/jquery.appear.js') }}"></script>
@@ -53,5 +53,4 @@
     <!-- Chart Custom JavaScript -->
     <script src="{{ asset('admin/js/chart-custom.js')}}"></script>
     <!-- Custom JavaScript -->
-    <script src="//cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
     <script src="{{ asset('admin/js/custom.js') }}"></script>

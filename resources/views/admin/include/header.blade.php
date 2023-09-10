@@ -20,7 +20,7 @@
       <link href="{{asset('admin/fullcalendar/list/main.css')}}" rel='stylesheet'/>
 
       <link rel="stylesheet" href="{{asset('admin/css/flatpickr.min.css')}}">
-      <link href="//cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" rel="stylesheet">
+      <link href="{{asset('admin/css/dataTables.min.css')}}" rel="stylesheet">
       
  
    </head>
